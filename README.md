@@ -4,4 +4,4 @@
 
  Make backups before changing anything!
 
-![image](https://media.discordapp.net/attachments/670313814490873864/874065900289032232/unknown.png)
+![image](./example.png)
